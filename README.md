@@ -1,4 +1,4 @@
-# Naruto Quotes API
+#  Quotes 
 
 Welcome to **Naruto Quotes API**, a collection of legendary quotes from the Naruto universe! This repository contains famous lines from Naruto Uzumaki, Sasuke Uchiha, Minato Namikaze, and other iconic characters.
 
